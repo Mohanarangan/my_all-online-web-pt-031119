@@ -15,4 +15,3 @@ if block_return_values.include?(false)
     true
   end
 end
-end
